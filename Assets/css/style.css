@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+   display: inline;
+}
+
+.jumbotron {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 20px;
+        background: url(../img/space.jpg);
+        text-align: center;
+        color: yellow;
+     }
+
+.fancy {
+        font-weight: bold;
+        text-shadow: 4px 4px 3px #7e8a97;
+    }
+
+.fonthead1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: orangered;
+    }
+
+.fonthead2 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: red;
+    }
+
+.fart {
+    text-align: justify;
+    background-color: bisque;
+    
+    }
+
+nav {
+        background-color: #414346;
+        padding: 2px;
+        position: sticky;
+        top: 0;
+		text-align: center;
+		
+     }
+
+nav li {
+        display: inline;
+        list-style-type: none;
+        margin-right: 30px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		
+     }
+
+nav a {
+        font-size: 18px;
+        font-weight: 400;
+        text-decoration: none;
+        color: white;
+		font-weight: bold;
+		
+     }
+
+   footer {
+        padding: 20px;
+        color: white;
+        text-align: center;
+        background-color:#414346;
+    
+     }
+
+
