@@ -19,7 +19,7 @@
 
 ### 🛠 **Software & Tools**
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)">
     <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge">
 </p>
