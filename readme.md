@@ -15,7 +15,7 @@
 
 <p>I am an IT enthusiast who likes many things, especially Web3, Web3 will bring a new era.</p>
 
-> _"To Infinity and Beyond”_ - Buzz
+> _"To Infinity and Beyond”_ - Buzz LightYear
 
 ### 🛠 **Software & Tools**
 
